@@ -1,0 +1,33 @@
+* {
+	background-image:url(Nujabesss.jpg);
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-attachment:fixed;
+	background-size:cover;
+	text-decoration: none;
+	font-family:Helvetica;
+}
+.sites {
+	text-align:center;
+	margin-top:20%;
+}
+.search {
+	height:46px;
+	padding:5px 15px;
+	margin-left:25%;
+	margin-right:25%;
+}
+.search input[type="text"] {
+    background:rgba(22,22,22,.7);
+    border:1px solid rgba(30,30,30,.6);
+    border-bottom:1px solid rgba(48,48,48,.8);
+    width:70%;
+    height:33px;
+    padding:3px 86px 3px 6px;
+    border-radius:5px;
+    box-shadow:inset #0f0f0f 0 0 2px;
+    color:white;
+}
+img {
+	border:0;
+}
